@@ -1,0 +1,29 @@
+.bgdodgerblue{
+    background-color: dodgerblue;
+}
+
+.colordodgerblue{
+    color: dodgerblue;
+}
+
+.colorbranco{
+    color: #fff;
+}
+
+#kanimes h1{
+    padding: 5px;
+    margin: 0;
+    font-weight: bold;
+}
+
+#nav-title{
+    font-weight: bold;
+}
+
+#temp h3{
+    padding: 5px;
+}
+
+footer a{
+    text-decoration: none;
+}
